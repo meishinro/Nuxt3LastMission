@@ -22,6 +22,11 @@
         placeholder="輸入文字"
       />
     </div>
+    <!-- CustomLink -->
+    <div class="flex space-x-2 bg-gray-700 p-4">
+      <CustomLink to="/">回首頁</CustomLink>
+      <CustomLink to="/sample">到範例頁</CustomLink>
+    </div>
   </div>
 </template>
 
