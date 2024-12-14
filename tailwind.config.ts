@@ -8,6 +8,8 @@ export default <Partial<Config>>{
         white: "#ffffff",
         black: "#000000",
         primary: "#BF9D7D",
+        neutral40: "#ECECEC",
+        neutral60: "#909090",
       },
     },
   },
