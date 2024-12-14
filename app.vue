@@ -1,5 +1,6 @@
 <template>
   <div>
+    <Header />
     <NuxtLayout>
       <!-- TODO:<Header />; /components/Header.vue -->
       <NuxtPage />
