@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "NotoSerifTC";
+  src: url("@/assets/fonts/NotoSerifTC-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* 使用 NotoSerifTC 作為全域字型 */
+body {
+  font-family: "NotoSerifTC", serif;
+}
